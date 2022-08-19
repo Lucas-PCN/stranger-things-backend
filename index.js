@@ -1,8 +1,6 @@
 const express = require('express');
 const cors = require('cors');
 
-// finaliza tudo!!!
-
 require('dotenv/config');
 
 const strangerThingsDataset = require('./data/dataset/stranger-things-characters.json');
